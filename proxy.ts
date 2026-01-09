@@ -29,7 +29,7 @@ export function proxy(request: NextRequest) : NextResponse | void  {
 
 export const config = {
     matcher: [
-        '/((?!_next.*)',
+        '/((?!_next).*)',
         '/'
-    ]
+    ],
 }
