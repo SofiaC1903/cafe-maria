@@ -8,18 +8,15 @@ export const metadata: Metadata = {
 };
 
 export async function generateStaticParams(){
-    return [{lang: "en-US"},{lang:"es-419"}];
+    return [{lang: "en-US"},{lang:"es"}];
 }
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
   params,
-}: Readonly<{
-  children: React.ReactNode;
-  params: { lang: string};
-}>) {
+}: LayoutProps<'/[lang]'>) {
   return (
-    <html lang={(params).lang}>
+    <html lang={(await params).lang}>
       <body>
         {children}
       </body>

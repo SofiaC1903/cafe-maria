@@ -1,0 +1,23 @@
+{
+  "home": {
+    "title": "Home Page"
+  },
+  "about": {
+    "title": "About Us"
+  },
+  "mission": {
+    "title": "Our Mission"
+  },
+  "collabs": {
+    "title": "Collaborations and Projects"
+  },
+  "team": {
+    "title": "Our Team"
+  },
+  "gallery": {
+    "title": "Our Gallery"
+  },
+  "contact":{
+    "title": "Contact Us"
+  }
+}
