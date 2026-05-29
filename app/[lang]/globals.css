@@ -1,5 +1,12 @@
 @import "tailwindcss";
 
+\\Forest Moss #638624,
+\\Soft Fawn #CAB077,
+\\Clay Soil #6F392E,
+\\Onyx #0D0E12
+\\Tomato Jam #BF3B37
+\\ White #FCFBFD
+
 :root {
   --background: #ffffff;
   --foreground: #171717;

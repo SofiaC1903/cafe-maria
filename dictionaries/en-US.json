@@ -1,6 +1,8 @@
 {
   "home": {
-    "title": "Home Page"
+    "title": "Home Page",
+    "blurb": "Welcome to Cafe Niña María's webpage, a company built through a passion for agriculture and the love of a mother. Feel free to stick around and learn more about our story and mission.",
+    "location": "Ciricito Arriba, Capira, Panama"
   },
   "about": {
     "title": "About Us"
