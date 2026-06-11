@@ -1,14 +1,20 @@
 {
   "home": {
     "title": "Página Principal",
-    "blurb": "Welcome to Cafe Niña María's webpage, a company built through a passion for agriculture and the love of a mother. Feel free to stick around and learn more about our story and mission.",
+    "blurb1": "Welcome to Cafe Niña María's webpage, a company built through a passion for agriculture and the love of a mother. Feel free to stick around and learn more about our story and mission.",
+    "blurb2":"What started as a 2 month passion project, became year long dedicated work in the communities of Ciricito Arriba. We handle the sowing, harvesting, drying, pounding, toasting and grind our coffee beans on our main farm and sister farms in the neighboring communities. We plan to begin exporting the ground coffee in the following months.",
     "location": "Ciricito Arriba, Capira, Panama"
   },
   "about": {
-    "title": "Sobre Nosotros"
+    "title": "Sobre Nosotros",
+    "conception": "The company was formed during the pandemic, with the purpose of finding business ventures outside the city. Another motivation became finding ways to benefit and give back to the land, through reforestation efforts and the protection water sources, that also benefit the Panama Canal.",
+    "brandInspo": "Our company name was inspired by the founder's mother, María Consuelo Hernandez de Ford, whose term of endearment was Niña María."
   },
   "mission": {
-    "title": "Nuestra Misión"
+    "title": "Nuestra Misión",
+    "mainMission": "As stated before, one of the company's main mission was to generate business in the countryside, through job creations and investing in local communities. Additionally, another of the company's missions are environmental initiatives that focus on reforestation efforts and the protection of local waterways, like Río Indio, which is currently the focus one of the Panama Canal Authority's biggest projects.",
+    "stats": "So far, 5000 coffee plants at our main and neighboring sister farms located in the communities: Ciricito Arriba, Río Indio de los Chorros, Teria, El Harino, Vallecito, and Uracillo. \n ",
+
   },
   "collabs": {
     "title": "Proyectos y Colaboraciones"
